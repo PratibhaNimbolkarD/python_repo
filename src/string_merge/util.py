@@ -1,10 +1,21 @@
 import logging
 logging.basicConfig(level= logging.INFO, format= '%(message)s')
-def merge_the_tools(s, k):
-    substrings = [s[i:i+k] for i in range(0, len(s), k)]
-    for substring in substrings:
-        unique_chars = []
-        for char in substring:
-            if char not in unique_chars:
-                unique_chars.append(char)
-        logging.info((''.join(unique_chars)))
+def merge_the_tools():
+    string = input("Enter the string: ").strip()
+    k = int(input("Enter the length of each substring: "))
+    c = 0
+    s = ''
+    str = ""
+
+    for i in string:
+        if i not in s:
+            s = s + i
+        c += 1
+        if (c == k):
+            # logging.info(s)
+            str += s + "\n"
+            s = ''
+            c = 0
+
+    logging.info(str)
+    return str

@@ -9,3 +9,4 @@ def calender_module():
     m, d, y = map(int, input("Enter the month,date and year : ").split())
     a = calendar.weekday(y, m, d)
     logging.info(weekdays[a])
+    return weekdays[a]

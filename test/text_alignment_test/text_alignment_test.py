@@ -1,8 +1,10 @@
 import unittest
-from src.text_alignment.util import text_alignment
-class TextAlignmentTest(unittest.TestCase):
-    def test_one(self):
-        self.assertEqual(text_alignment(),'''    H    
+from src.text_alignment.util  import text_alignment
+
+
+class TextAlignment(unittest.TestCase):
+    def test1(self):
+        self.assertEqual(text_alignment(), '''    H    
    HHH   
   HHHHH  
  HHHHHHH 
@@ -28,3 +30,34 @@ HHHHHHHHH
                        HHH    
                         H     
 ''')
+
+        '''5'''
+
+    def test2(self):
+        self.assertEqual(text_alignment(),''' H 
+HHH
+ HH      HH     
+ HH      HH     
+ HH      HH     
+ HHHHHHHHHH 
+ HH      HH     
+ HH      HH     
+ HH      HH     
+        HHH 
+         H  
+''')
+        '''2'''
+
+    def test3(self):
+              self.assertEqual(text_alignment(),'''H
+H   H   
+H   H   
+HHHHH 
+H   H   
+H   H   
+    H 
+''')
+'''1'''
+
+if __name__ == "__main__":
+    unittest.main()

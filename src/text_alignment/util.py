@@ -34,6 +34,8 @@ def text_alignment():
 
         # Bottom Cone
     for i in range(thickness):
+        logging.info(((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(
+            thickness * 6))
         temp = ((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(
             thickness * 6)
         ans += temp+"\n"

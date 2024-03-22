@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="667f632f-9050-4341-b854-4de44ba5f348" name="Changes" comment="word order">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PratibhaNimbolkar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e8dc3057-cfb0-43c2-a4c1-56ef8f3e4a79" />
+        <option name="url" value="https://github.com/PratibhaNimbolkarD/python_repo.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2daGunrzXySizUFUGo4NLZqGVpA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for calender_module_test.CalendarModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for calender_module_test.CalendarModule.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for calender_module_test.MyTestCase.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for calender_module_test.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for collections_named_tuple.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for collections_named_tuple.MyTestCase.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for find_percentage_test.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for find_percentage_test.MyTestCase.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for find_runnerup_score_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for find_runnerup_score_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for find_runnerup_score_test.MyTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for floor_ceil_rint_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for iterable_iterators_test.IterablesIterators.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for iterable_iterators_test.IterablesIterators.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for iterable_iterators_test.IterablesIterators.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for linear_algebra_test.MyTestCase.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for linear_algebra_test.MyTestCase.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for linear_algebra_test.MyTestCase.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for mean_var_std_test.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for min_max_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for min_max_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for min_max_test.MyTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for no_idea_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for no_idea_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for no_idea_test.MyTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for no_idea_test.MyTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pilling_up_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pilling_up_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pilling_up_test.MyTestCase.test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_formatting_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_formatting_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_formatting_test.MyTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_formatting_test.MyTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_merge_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_merge_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_merge_test.MyTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_merge_test.MyTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for string_mutation_test.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for text_alignment_test.TextAlignment.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for text_alignment_test.TextAlignment.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for text_alignment_test.TextAlignmentTest.test_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for text_alignment_test.TextAlignmentTest.test_two.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for time_delta_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for time_delta_test.MyTest.test_time_delta_positive_offset.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for validating_email_address_test.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for validating_email_address_test.MyTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for validating_email_address_test.MyTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for validating_email_address_test.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for word_order_test.MyTestCase.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for word_order_test.MyTestCase.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in collections_named_tuple.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in find_percentage_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in find_runnerup_score_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in mean_var_std_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in string_formatting_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in string_mutation_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in word_order_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.driver (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.driver (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.driver (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.driver (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.util (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.util (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.util.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PratibhaNimbolkar/PycharmProjects_2/python_repo&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PratibhaNimbolkar\PycharmProjects_2\python_repo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.test_pilling_up.test_pilling_up.MyTest">
+    <configuration name="Python tests for test.test_pilling_up.test_pilling_up.MyTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python_repo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_pilling_up" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_pilling_up.test_pilling_up.MyTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_pilling_up.test_pilling_up.MyTest.test1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python_repo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_pilling_up" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_pilling_up.test_pilling_up.MyTest.test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_validating_email_address.test_validating_email_address.MyTest.test2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python_repo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_validating_email_address" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_validating_email_address.test_validating_email_address.MyTest.test2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_validating_email_address.test_validating_email_address.MyTest.test3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python_repo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_validating_email_address" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_validating_email_address.test_validating_email_address.MyTest.test3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.test_pilling_up.test_pilling_up.MyTest" />
+        <item itemvalue="Python tests.Python tests for test.test_pilling_up.test_pilling_up.MyTest.test1" />
+        <item itemvalue="Python tests.Python tests for test.test_validating_email_address.test_validating_email_address.MyTest.test3" />
+        <item itemvalue="Python tests.Python tests for test.test_validating_email_address.test_validating_email_address.MyTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667f632f-9050-4341-b854-4de44ba5f348" name="Changes" comment="" />
+      <created>1710239000503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710239000503</updated>
+    </task>
+    <task id="LOCAL-00038" summary="validating email address">
+      <option name="closed" value="true" />
+      <created>1710420747258</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1710420747258</updated>
+    </task>
+    <task id="LOCAL-00039" summary="word order">
+      <option name="closed" value="true" />
+      <created>1710420759151</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710420759151</updated>
+    </task>
+    <task id="LOCAL-00040" summary="validating email address test">
+      <option name="closed" value="true" />
+      <created>1710420775454</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1710420775454</updated>
+    </task>
+    <task id="LOCAL-00041" summary="word order test">
+      <option name="closed" value="true" />
+      <created>1710420789872</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710420789872</updated>
+    </task>
+    <task id="LOCAL-00042" summary="readme updated">
+      <option name="closed" value="true" />
+      <created>1710421172506</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710421172506</updated>
+    </task>
+    <task id="LOCAL-00043" summary="test calender module">
+      <option name="closed" value="true" />
+      <created>1711084826131</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084826131</updated>
+    </task>
+    <task id="LOCAL-00044" summary="test collection named tuple">
+      <option name="closed" value="true" />
+      <created>1711084855009</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084855009</updated>
+    </task>
+    <task id="LOCAL-00045" summary="test find percentage">
+      <option name="closed" value="true" />
+      <created>1711084913509</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084913509</updated>
+    </task>
+    <task id="LOCAL-00046" summary="test find runner up score">
+      <option name="closed" value="true" />
+      <created>1711084929871</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084929871</updated>
+    </task>
+    <task id="LOCAL-00047" summary="test floore ceil">
+      <option name="closed" value="true" />
+      <created>1711084946936</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084946936</updated>
+    </task>
+    <task id="LOCAL-00048" summary="test iterable iterators">
+      <option name="closed" value="true" />
+      <created>1711084960348</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084960348</updated>
+    </task>
+    <task id="LOCAL-00049" summary="test linear algebra">
+      <option name="closed" value="true" />
+      <created>1711084972862</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084972862</updated>
+    </task>
+    <task id="LOCAL-00050" summary="test mean var std">
+      <option name="closed" value="true" />
+      <created>1711084987594</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084987594</updated>
+    </task>
+    <task id="LOCAL-00051" summary="test min max">
+      <option name="closed" value="true" />
+      <created>1711085001212</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085001212</updated>
+    </task>
+    <task id="LOCAL-00052" summary="test no idea">
+      <option name="closed" value="true" />
+      <created>1711085018696</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085018696</updated>
+    </task>
+    <task id="LOCAL-00053" summary="test pilling up">
+      <option name="closed" value="true" />
+      <created>1711085031620</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085031620</updated>
+    </task>
+    <task id="LOCAL-00054" summary="test string formatting">
+      <option name="closed" value="true" />
+      <created>1711085044183</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085044183</updated>
+    </task>
+    <task id="LOCAL-00055" summary="test string merge">
+      <option name="closed" value="true" />
+      <created>1711085054008</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085054008</updated>
+    </task>
+    <task id="LOCAL-00056" summary="test string mutation">
+      <option name="closed" value="true" />
+      <created>1711085063950</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085063950</updated>
+    </task>
+    <task id="LOCAL-00057" summary="test text alignment">
+      <option name="closed" value="true" />
+      <created>1711085079203</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085079203</updated>
+    </task>
+    <task id="LOCAL-00058" summary="test time delta">
+      <option name="closed" value="true" />
+      <created>1711085093352</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085093352</updated>
+    </task>
+    <task id="LOCAL-00059" summary="test validating email">
+      <option name="closed" value="true" />
+      <created>1711085108485</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085108485</updated>
+    </task>
+    <task id="LOCAL-00060" summary="test word order">
+      <option name="closed" value="true" />
+      <created>1711085118792</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085118792</updated>
+    </task>
+    <task id="LOCAL-00061" summary="calender module">
+      <option name="closed" value="true" />
+      <created>1711089436744</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089436745</updated>
+    </task>
+    <task id="LOCAL-00062" summary="collection named tuple">
+      <option name="closed" value="true" />
+      <created>1711089458224</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089458224</updated>
+    </task>
+    <task id="LOCAL-00063" summary="find percentage">
+      <option name="closed" value="true" />
+      <created>1711089473046</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089473046</updated>
+    </task>
+    <task id="LOCAL-00064" summary="calender module">
+      <option name="closed" value="true" />
+      <created>1711089484619</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089484619</updated>
+    </task>
+    <task id="LOCAL-00065" summary="find runner up">
+      <option name="closed" value="true" />
+      <created>1711089496490</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089496490</updated>
+    </task>
+    <task id="LOCAL-00066" summary="collection name tuple">
+      <option name="closed" value="true" />
+      <created>1711089512110</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089512110</updated>
+    </task>
+    <task id="LOCAL-00067" summary="find percentage">
+      <option name="closed" value="true" />
+      <created>1711089524108</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089524108</updated>
+    </task>
+    <task id="LOCAL-00068" summary="find runner up">
+      <option name="closed" value="true" />
+      <created>1711089540703</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089540703</updated>
+    </task>
+    <task id="LOCAL-00069" summary="added">
+      <option name="closed" value="true" />
+      <created>1711091536176</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1711091536176</updated>
+    </task>
+    <task id="LOCAL-00070" summary="calender module">
+      <option name="closed" value="true" />
+      <created>1711092072036</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092072036</updated>
+    </task>
+    <task id="LOCAL-00071" summary="collection named tuple">
+      <option name="closed" value="true" />
+      <created>1711092103487</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092103488</updated>
+    </task>
+    <task id="LOCAL-00072" summary="find percentage">
+      <option name="closed" value="true" />
+      <created>1711092127096</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092127096</updated>
+    </task>
+    <task id="LOCAL-00073" summary="find runner up">
+      <option name="closed" value="true" />
+      <created>1711092146870</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092146870</updated>
+    </task>
+    <task id="LOCAL-00074" summary="iterable and iterators">
+      <option name="closed" value="true" />
+      <created>1711092169134</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092169134</updated>
+    </task>
+    <task id="LOCAL-00075" summary="linear algebra">
+      <option name="closed" value="true" />
+      <created>1711092188269</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092188269</updated>
+    </task>
+    <task id="LOCAL-00076" summary="mean var std">
+      <option name="closed" value="true" />
+      <created>1711092208515</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092208515</updated>
+    </task>
+    <task id="LOCAL-00077" summary="min max">
+      <option name="closed" value="true" />
+      <created>1711092255598</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092255599</updated>
+    </task>
+    <task id="LOCAL-00078" summary="no idea">
+      <option name="closed" value="true" />
+      <created>1711092269216</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092269216</updated>
+    </task>
+    <task id="LOCAL-00079" summary="pilling up">
+      <option name="closed" value="true" />
+      <created>1711092291853</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092291853</updated>
+    </task>
+    <task id="LOCAL-00080" summary="string formatting">
+      <option name="closed" value="true" />
+      <created>1711092309815</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092309815</updated>
+    </task>
+    <task id="LOCAL-00081" summary="string merge">
+      <option name="closed" value="true" />
+      <created>1711092326514</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092326514</updated>
+    </task>
+    <task id="LOCAL-00082" summary="string mutations">
+      <option name="closed" value="true" />
+      <created>1711092342628</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092342628</updated>
+    </task>
+    <task id="LOCAL-00083" summary="text alignment">
+      <option name="closed" value="true" />
+      <created>1711092365436</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092365436</updated>
+    </task>
+    <task id="LOCAL-00084" summary="time delta">
+      <option name="closed" value="true" />
+      <created>1711092380653</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092380653</updated>
+    </task>
+    <task id="LOCAL-00085" summary="validating email address">
+      <option name="closed" value="true" />
+      <created>1711092403062</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092403062</updated>
+    </task>
+    <task id="LOCAL-00086" summary="word order">
+      <option name="closed" value="true" />
+      <created>1711092415163</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1711092415163</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test string merge" />
+    <MESSAGE value="test string mutation" />
+    <MESSAGE value="test text alignment" />
+    <MESSAGE value="test time delta" />
+    <MESSAGE value="test validating email" />
+    <MESSAGE value="test word order" />
+    <MESSAGE value="collection name tuple" />
+    <MESSAGE value="added" />
+    <MESSAGE value="calender module" />
+    <MESSAGE value="collection named tuple" />
+    <MESSAGE value="find percentage" />
+    <MESSAGE value="find runner up" />
+    <MESSAGE value="iterable and iterators" />
+    <MESSAGE value="linear algebra" />
+    <MESSAGE value="mean var std" />
+    <MESSAGE value="min max" />
+    <MESSAGE value="no idea" />
+    <MESSAGE value="pilling up" />
+    <MESSAGE value="string formatting" />
+    <MESSAGE value="string merge" />
+    <MESSAGE value="string mutations" />
+    <MESSAGE value="text alignment" />
+    <MESSAGE value="time delta" />
+    <MESSAGE value="validating email address" />
+    <MESSAGE value="word order" />
+    <option name="LAST_COMMIT_MESSAGE" value="word order" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_find_percentage/test_find_percentage.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_min_max/test_min_max.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_word_order/test_word_order.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_pilling_up/test_pilling_up.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
